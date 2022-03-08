@@ -1,7 +1,7 @@
 package Developer;
 
 public class variables {
-
+     
     public static void main(String[] args) {
      int suma, a,b;
      a = 12;
